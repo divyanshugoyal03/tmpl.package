@@ -1,9 +1,9 @@
-# tmpl.package
+# The tmpl.package
 
-tmpl.package is a open source script for dealing with .
+tmpl.package is a open source script for dealing with "______".
 
 ## Requirement
-1.  Any text editor like [vim](https://www.vim.org/download.php), [TextEdit](https://support.apple.com/en-in/guide/textedit/welcome/mac) etc.
+Any text editor like [Vim](https://www.vim.org/download.php), [TextEdit](https://support.apple.com/en-in/guide/textedit/welcome/mac) etc.
 
 ## Installation
 
@@ -26,4 +26,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[Divyanshu]
+[GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
+```Text
+Copyright (c) [2020] [Divyanshu Goyal]
+```
